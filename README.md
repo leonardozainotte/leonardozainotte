@@ -15,7 +15,7 @@ Aqui estão as tecnologias com as quais trabalho e estudo diariamente:
 </p>
 
 ## 🚀 O que estou fazendo no momento
-- 💻 Atuando com suporte e TI no setor educacional, garantindo estabilidade e eficiência de sistemas.
+- 💻 Atuando com suporte e infraestrutura em TI no setor educacional, garantindo estabilidade e eficiência de sistemas.
 - 📚 Aprofundando estudos em back-end e automações.
 - 🏗️ Desenvolvendo projetos práticos de modelagem de dados e lógica de programação.
 
